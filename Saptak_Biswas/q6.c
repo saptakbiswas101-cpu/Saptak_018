@@ -1,4 +1,4 @@
-// thsi code is to show the sum of even numbers from 1 to n
+// this code is to show the sum of even numbers from 1 to n
 // n is a number entered by the user
 #include <stdio.h>
 
